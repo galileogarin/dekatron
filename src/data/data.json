@@ -1,0 +1,149 @@
+{
+  "Header": {
+    "title": "Selamat Datang",
+    "paragraph": "Mitra Distributor Resmi SariRoti wilayah Banyuwangi"
+  },
+  "About": {
+    "paragraph": "UD Dekatron adalah distributor resmi produk Sari Roti di Banyuwangi, didirikan oleh Bapak Ivan. Kami berkomitmen menghadirkan roti segar berkualitas tinggi yang memenuhi kebutuhan rumah tangga dan usaha di wilayah ini. Dengan layanan yang andal dan produk berkualitas, kami siap menjadi mitra terpercaya dalam mendistribusikan kenikmatan Sari Roti ke seluruh pelanggan kami.",
+    "Why": [
+      "Distributor Resmi",
+      "Produk Segar Berkualitas",
+      "Layanan Profesional",
+      "Jangkauan Luas"
+    ],
+    "Why2": ["Harga Kompetitif", "Komitmen Kepuasan Pelanggan"]
+  },
+  "Gallery": [
+    {
+      "title": "Tawar Premium",
+      "largeImage": "img/portfolio/01-large.png",
+      "smallImage": "img/portfolio/01-small.png"
+    },
+    {
+      "title": "Tawar Kupas",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Tawar Pandan",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Dorayaki Coklat",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Cheese Cake",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Sandwich Coklat",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Kasur Keju",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Sobek Sarikaya",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Krim Vanila",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "img/poducts/sariroti.jpg",
+      "name": "Sari Roti",
+      "text": "Sari Roti adalah roti segar yang lembut dan lezat, dibuat dari bahan berkualitas tinggi untuk menemani berbagai momen spesial Anda."
+    },
+    {
+      "icon": "img/poducts/sarikue.jpg",
+      "name": "Sari Kue",
+      "text": "Sari Kue adalah kue lezat yang dibuat dengan bahan pilihan, menghadirkan rasa manis yang sempurna untuk melengkapi hari Anda."
+    },
+    {
+      "icon": "img/poducts/sarichoco.jpg",
+      "name": "Sari Choco",
+      "text": "Sari Choco adalah camilan cokelat nikmat dengan rasa manis yang kaya, cocok untuk menemani waktu santai Anda."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Saya sangat puas dengan produk jamur tiram dari Move On Mushroom. Jamurnya selalu segar dan berkualitas, sangat cocok untuk berbagai hidangan di restoran saya. Pelayanan mereka juga sangat ramah dan responsif. Saya pasti akan terus menjadi pelanggan setia!\"",
+      "name": "Budi Santoso, Pemilik Restoran"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Pelatihan budidaya jamur tiram yang diberikan oleh Move On Mushroom sangat membantu saya sebagai pemula. Mereka membimbing saya dari awal hingga saya bisa memanen sendiri. Sekarang, saya sudah memiliki usaha kecil yang mulai berkembang. Terima kasih atas dukungannya!\"",
+      "name": "Siti Aisyah, Pengusaha Jamur Tiram"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Produk olahan jamur dari Move On Mushroom benar-benar lezat dan inovatif. Nugget jamurnya menjadi favorit keluarga kami. Kami juga senang mengetahui bahwa produk mereka diproduksi secara ramah lingkungan dan mendukung komunitas lokal.\"",
+      "name": "Andi Prasetyo, Konsumen"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Dusun Pelinggihan, Grogol, Kec. Giri, Kabupaten Banyuwangi, Jawa Timur 68425",
+    "phone": "+62 83-03-3399",
+    "email": "sariroti@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Kemudahan Pemesanan",
+      "text": "Sistem pemesanan yang cepat dan mudah, memungkinkan pelanggan memesan produk kapan saja dengan dukungan layanan pelanggan yang responsif."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Pengiriman Tepat Waktu",
+      "text": "Menjamin pengiriman produk yang cepat dan tepat waktu, sehingga roti tetap segar sampai ke tangan Anda."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Harga Kompetitif",
+      "text": "Memberikan harga yang bersaing dengan keuntungan tambahan untuk pelanggan loyal dan pembelian dalam jumlah besar."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Produk Berkualitas Tinggi",
+      "text": "Menyediakan beragam varian roti segar dari Sari Roti yang dibuat dengan bahan pilihan untuk memastikan kualitas dan rasa terbaik."
+    }
+  ]
+}
