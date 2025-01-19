@@ -1,5 +1,4 @@
 import { useState } from "react";
-import emailjs from "emailjs-com";
 import React from "react";
 
 const initialState = {
@@ -14,12 +13,11 @@ export const Contact = (props) => {
     const { name, value } = e.target;
     setState((prevState) => ({ ...prevState, [name]: value }));
   };
-  const clearState = () => setState({ ...initialState });
 
   function handleSubmit(e) {
     e.preventDefault();
 
-    const mailtoLink = `mailto:imam55.1khoironi@gmail.com?subject=Pesan dari ${name}&body=${encodeURIComponent(
+    const mailtoLink = `mailto:sariroti@gmail.com?subject=Pesan dari ${name}&body=${encodeURIComponent(
       `Nama: ${name}\nEmail: ${email}\nPesan: ${message}`
     )}`;
 
@@ -102,7 +100,7 @@ export const Contact = (props) => {
                 <span>
                   <i className="fa fa-phone"></i> Telpon
                 </span>{" "}
-                {props.data ? props.data.phone : "+62 83-03-3399"}
+                {props.data ? props.data.phone : "+62 859 6810 2865"}
               </p>
             </div>
             <div className="contact-item">
